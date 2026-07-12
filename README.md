@@ -75,9 +75,7 @@
 </p>
 
 <p align="center">
-  <a href="https://star-history.com/#zimingttkx/future-agi,zimingttkx/AI-Practices,zimingttkx/QuantumFlow,zimingttkx/Network-Security-Based-On-ML,zimingttkx/ConcurrentCache&Date">
-    <img src="https://api.star-history.com/svg?repos=zimingttkx/future-agi,zimingttkx/AI-Practices,zimingttkx/QuantumFlow,zimingttkx/Network-Security-Based-On-ML,zimingttkx/ConcurrentCache&type=Date" alt="Star History Chart" />
-  </a>
+  <img src="https://img.shields.io/badge/Total%20Stars-1066-blue?style=flat-square" alt="Total Stars" />
 </p>
 
 ## 联系我
