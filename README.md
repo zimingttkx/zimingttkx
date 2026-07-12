@@ -67,7 +67,3 @@
 - GitHub: https://github.com/zimingttkx
 - 公司/机构: https://sxx.nufe.edu.cn/
 - 简介: Mathematics · ComputerScience · ML DL · OpenSource
-
----
-
-如果你愿意，我还可以继续把它升级成更有视觉感的版本，比如加横幅、动画和精选项目卡片。
