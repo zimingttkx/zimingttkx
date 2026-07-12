@@ -3,7 +3,7 @@
 ### Mathematics · Computer Science · ML/DL · Open Source
 
 <p>
-  专注于把研究想法和工程实践结合起来，持续探索 LLM、分布式系统、网络安全和高性能 C++ 方向。
+  关注数学、计算机科学与机器学习相关研究，并将方法落地到可复用、可验证的工程实践中。
 </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/zimingttkx?label=Followers&style=flat-square)](https://github.com/zimingttkx)
@@ -12,19 +12,19 @@
 
 </div>
 
-## 一眼看我
+## 关于我
 
-**我主要关注**
+**研究与方向**
 - 数学、计算机科学、机器学习和深度学习
 - LLM 评测、可观测性与 Agent 工作流
 - 分布式推理、调度与系统优化
 - 网络安全、C++ 基础设施与服务器系统
 
-**参与过的开源项目**
-- [vllm](https://github.com/vllm-project/vllm)：参与过文档、测试与内容修复相关工作
-- [future-agi](https://github.com/zimingttkx/future-agi)：持续参与 LLM 评测、可观测性与 Agent 工作流相关开发
+**开源参与**
+- [vllm](https://github.com/vllm-project/vllm)：参与文档、测试与内容修复相关工作
+- [future-agi](https://github.com/zimingttkx/future-agi)：参与 LLM 评测、可观测性与 Agent 工作流相关开发
 
-**GitHub 数据**
+**GitHub 数据概览**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Public%20Repos-8-blue?style=flat-square" alt="Public repos" />
