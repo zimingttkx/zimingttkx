@@ -48,13 +48,18 @@
 
 ## GitHub 数据
 
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zimingttkx&show_icons=true&count_private=true&theme=default)
-
-![主要编程语言](https://github-readme-stats.vercel.app/api/top-langs/?username=zimingttkx&layout=compact&theme=default)
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20Repos-8-blue?style=flat-square" alt="Public repos" />
+  <img src="https://img.shields.io/badge/Followers-9-success?style=flat-square" alt="Followers" />
+  <img src="https://img.shields.io/badge/Following-1-lightgrey?style=flat-square" alt="Following" />
+</p>
 
 </div>
+
+<p align="center">
+  我更关注项目内容和技术方向，而不是单纯展示统计卡片。
+  如果你想看我的代码风格和技术栈，直接看上面的代表项目更直观。
+</p>
 
 ## 联系我
 
