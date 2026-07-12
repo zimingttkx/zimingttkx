@@ -3,7 +3,7 @@
 ### Mathematics · Computer Science · ML/DL · Open Source
 
 <p>
-  关注数学、计算机科学与机器学习相关研究，并将方法落地到可复用、可验证的工程实践中
+  关注数学、计算机科学与机器学习相关研究 热爱开源社区 
 </p>
 
 <p align="center">
