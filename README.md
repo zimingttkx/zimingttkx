@@ -26,12 +26,12 @@
       </ul>
     </td>
     <td valign="top" width="50%">
-      <strong>我更喜欢</strong>
+      <strong>参与过的开源项目</strong>
       <ul>
-        <li>把论文、想法和工程落地连起来</li>
-        <li>做能复用、能学习、能继续迭代的开源项目</li>
-        <li>用简洁、清晰的方式表达复杂问题</li>
-        <li>持续练习，把基础能力做扎实</li>
+        <li><a href="https://github.com/vllm-project/vllm">vllm</a>：参与过文档、测试与内容修复相关工作</li>
+        <li><a href="https://github.com/EJianZQ/IGoLibrary">IGoLibrary</a>：参与过 Mac 版本相关讨论</li>
+        <li><a href="https://github.com/moises-goncalves/NUFELibrary">NUFELibrary</a>：提交过改进建议</li>
+        <li>后续也会继续参与更多 AI / 工程方向的开源项目</li>
       </ul>
     </td>
   </tr>
