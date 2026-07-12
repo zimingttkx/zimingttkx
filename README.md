@@ -57,8 +57,9 @@
 </div>
 
 <p align="center">
-  我更关注项目内容和技术方向，而不是单纯展示统计卡片。
-  如果你想看我的代码风格和技术栈，直接看上面的代表项目更直观。
+  <a href="https://star-history.com/#zimingttkx/future-agi,zimingttkx/AI-Practices,zimingttkx/QuantumFlow,zimingttkx/Network-Security-Based-On-ML,zimingttkx/ConcurrentCache&Date">
+    <img src="https://api.star-history.com/svg?repos=zimingttkx/future-agi,zimingttkx/AI-Practices,zimingttkx/QuantumFlow,zimingttkx/Network-Security-Based-On-ML,zimingttkx/ConcurrentCache&type=Date" alt="Star History Chart" />
+  </a>
 </p>
 
 ## 联系我
