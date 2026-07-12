@@ -65,5 +65,6 @@
 ## 联系我
 
 - GitHub: https://github.com/zimingttkx
+- 邮箱: 2147514473@qq.com
+- LeetCode: https://leetcode.cn/u/zimingttkx
 - 公司/机构: https://sxx.nufe.edu.cn/
-- 简介: Mathematics · ComputerScience · ML DL · OpenSource
