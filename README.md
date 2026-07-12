@@ -1,12 +1,12 @@
 <div align="center">
 
-# 丁子铭
+# Ding ZiMing
 
 ### 数学 · 计算机科学 · 机器学习 / 深度学习 · 开源
 
 [![GitHub followers](https://img.shields.io/github/followers/zimingttkx?label=Followers&style=flat-square)](https://github.com/zimingttkx)
 [![Public repos](https://img.shields.io/badge/Public%20Repos-8+-blue?style=flat-square)](https://github.com/zimingttkx?tab=repositories)
-[![Profile](https://img.shields.io/badge/Profile-zimingttkx-181717?style=flat-square&logo=github)](https://github.com/zimingttkx)
+[![个人资料](https://img.shields.io/badge/Profile-zimingttkx-181717?style=flat-square&logo=github)](https://github.com/zimingttkx)
 
 </div>
 
@@ -52,7 +52,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zimingttkx&show_icons=true&count_private=true&theme=default)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zimingttkx&layout=compact&theme=default)
+![主要编程语言](https://github-readme-stats.vercel.app/api/top-langs/?username=zimingttkx&layout=compact&theme=default)
 
 </div>
 
