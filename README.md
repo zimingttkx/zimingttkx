@@ -11,6 +11,7 @@
 [![个人资料](https://img.shields.io/badge/Profile-zimingttkx-181717?style=flat-square&logo=github)](https://github.com/zimingttkx)
 
 [![GitHub](https://img.shields.io/badge/GitHub-zimingttkx-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zimingttkx)
+[![Total Stars](https://img.shields.io/badge/Total%20Stars-1066-blue?style=flat-square)](https://github.com/zimingttkx?tab=repositories)
 [![LeetCode](https://img.shields.io/badge/LeetCode-zimingttkx-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.cn/u/zimingttkx)
 [![QQ Mail](https://img.shields.io/badge/QQ%20Mail-2147514473%40qq.com-12B7F5?style=flat-square&logo=qq&logoColor=white)](mailto:2147514473@qq.com)
 
