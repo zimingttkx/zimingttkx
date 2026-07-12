@@ -33,6 +33,14 @@
         <li><a href="https://github.com/moises-goncalves/NUFELibrary">NUFELibrary</a>：提交过改进建议</li>
         <li>后续也会继续参与更多 AI / 工程方向的开源项目</li>
       </ul>
+
+      <strong>GitHub 数据</strong>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Public%20Repos-8-blue?style=flat-square" alt="Public repos" />
+        <img src="https://img.shields.io/badge/Followers-9-success?style=flat-square" alt="Followers" />
+        <img src="https://img.shields.io/badge/Following-1-lightgrey?style=flat-square" alt="Following" />
+        <img src="https://img.shields.io/badge/Total%20Stars-1066-blue?style=flat-square" alt="Total Stars" />
+      </p>
     </td>
   </tr>
 </table>
@@ -64,18 +72,6 @@
   <img src="https://img.shields.io/badge/MLOps-0F766E?style=flat-square" />
   <img src="https://img.shields.io/badge/Distributed%20Systems-1D4ED8?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20Source-111827?style=flat-square" />
-</p>
-
-## GitHub 数据
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repos-8-blue?style=flat-square" alt="Public repos" />
-  <img src="https://img.shields.io/badge/Followers-9-success?style=flat-square" alt="Followers" />
-  <img src="https://img.shields.io/badge/Following-1-lightgrey?style=flat-square" alt="Following" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Stars-1066-blue?style=flat-square" alt="Total Stars" />
 </p>
 
 ## 联系我
