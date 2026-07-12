@@ -1,8 +1,10 @@
 <div align="center">
 
-# Ding ZiMing
+### Mathematics · Computer Science · ML/DL · Open Source
 
-### 数学 · 计算机科学 · 机器学习 / 深度学习 · 开源
+<p>
+  专注于把研究想法和工程实践结合起来，持续探索 LLM、分布式系统、网络安全和高性能 C++ 方向。
+</p>
 
 [![GitHub followers](https://img.shields.io/github/followers/zimingttkx?label=Followers&style=flat-square)](https://github.com/zimingttkx)
 [![Public repos](https://img.shields.io/badge/Public%20Repos-8+-blue?style=flat-square)](https://github.com/zimingttkx?tab=repositories)
@@ -10,12 +12,30 @@
 
 </div>
 
-## 关于我
+## 一眼看我
 
-- 我主要关注数学、计算机科学、机器学习和深度学习。
-- 我喜欢围绕 LLM、分布式推理、安全和性能工程做实用系统。
-- 我乐于把研究想法做成真正能用的开源项目。
-- 我持续参与开源，也希望分享别人能直接学习和复用的代码。
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>我主要关注</strong>
+      <ul>
+        <li>数学、计算机科学、机器学习和深度学习</li>
+        <li>LLM 评测、可观测性与 Agent 工作流</li>
+        <li>分布式推理、调度与系统优化</li>
+        <li>网络安全、C++ 基础设施与服务器系统</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <strong>我更喜欢</strong>
+      <ul>
+        <li>把论文、想法和工程落地连起来</li>
+        <li>做能复用、能学习、能继续迭代的开源项目</li>
+        <li>用简洁、清晰的方式表达复杂问题</li>
+        <li>持续练习，把基础能力做扎实</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 我在做什么
 
@@ -53,8 +73,6 @@
   <img src="https://img.shields.io/badge/Followers-9-success?style=flat-square" alt="Followers" />
   <img src="https://img.shields.io/badge/Following-1-lightgrey?style=flat-square" alt="Following" />
 </p>
-
-</div>
 
 <p align="center">
   <a href="https://star-history.com/#zimingttkx/future-agi,zimingttkx/AI-Practices,zimingttkx/QuantumFlow,zimingttkx/Network-Security-Based-On-ML,zimingttkx/ConcurrentCache&Date">
