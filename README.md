@@ -6,14 +6,18 @@
   关注数学、计算机科学与机器学习相关研究，并将方法落地到可复用、可验证的工程实践中。
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/zimingttkx?label=Followers&style=flat-square)](https://github.com/zimingttkx)
-[![Public repos](https://img.shields.io/badge/Public%20Repos-8+-blue?style=flat-square)](https://github.com/zimingttkx?tab=repositories)
-[![个人资料](https://img.shields.io/badge/Profile-zimingttkx-181717?style=flat-square&logo=github)](https://github.com/zimingttkx)
+<p align="center">
+  <a href="https://github.com/zimingttkx"><img src="https://img.shields.io/github/followers/zimingttkx?label=Followers&style=flat-square" alt="GitHub followers" /></a>
+  <a href="https://github.com/zimingttkx?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-8+-blue?style=flat-square" alt="Public repos" /></a>
+  <a href="https://github.com/zimingttkx"><img src="https://img.shields.io/badge/Profile-zimingttkx-181717?style=flat-square&logo=github" alt="Profile" /></a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-zimingttkx-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zimingttkx)
-[![Total Stars](https://img.shields.io/badge/Total%20Stars-1066-blue?style=flat-square)](https://github.com/zimingttkx?tab=repositories)
-[![LeetCode](https://img.shields.io/badge/LeetCode-zimingttkx-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.cn/u/zimingttkx)
-[![QQ Mail](https://img.shields.io/badge/QQ%20Mail-2147514473%40qq.com-12B7F5?style=flat-square&logo=qq&logoColor=white)](mailto:2147514473@qq.com)
+<p align="center">
+  <a href="https://github.com/zimingttkx"><img src="https://img.shields.io/badge/GitHub-zimingttkx-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/zimingttkx?tab=repositories"><img src="https://img.shields.io/badge/Total%20Stars-1066-blue?style=flat-square" alt="Total Stars" /></a>
+  <a href="https://leetcode.cn/u/zimingttkx"><img src="https://img.shields.io/badge/LeetCode-zimingttkx-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="mailto:2147514473@qq.com"><img src="https://img.shields.io/badge/QQ%20Mail-2147514473%40qq.com-12B7F5?style=flat-square&logo=qq&logoColor=white" alt="QQ Mail" /></a>
+</p>
 
 </div>
 
