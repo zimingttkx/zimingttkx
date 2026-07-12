@@ -3,7 +3,7 @@
 ### Mathematics · Computer Science · ML/DL · Open Source
 
 <p>
-  关注数学、计算机科学与机器学习相关研究，并将方法落地到可复用、可验证的工程实践中。
+  关注数学、计算机科学与机器学习相关研究，并将方法落地到可复用、可验证的工程实践中
 </p>
 
 <p align="center">
@@ -37,19 +37,19 @@
     <td valign="top" width="50%">
       <strong>开源参与</strong>
       <ul>
-        <li><a href="https://github.com/vllm-project/vllm">vllm</a>：参与文档、测试与内容修复相关工作</li>
+        <li><a href="https://github.com/vllm-project/vllm">vllm</a>：参与文档、测试与Bug修复相关工作</li>
         <li><a href="https://github.com/zimingttkx/future-agi">future-agi</a>：参与 LLM 评测、可观测性与 Agent 工作流相关开发</li>
       </ul>
     </td>
   </tr>
 </table>
 
-## 我在做什么
+## What I'm Doing
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <strong>当前重点</strong>
+      <strong>Work</strong>
       <ul>
         <li>LLM 评测、可观测性与 Agent 工作流</li>
         <li>分布式推理与调度</li>
@@ -57,17 +57,17 @@
       </ul>
     </td>
     <td valign="top" width="50%">
-      <strong>实践方向</strong>
+      <strong>兴趣</strong>
       <ul>
         <li>高性能 C++ 基础设施与服务器系统</li>
-        <li>ML/DL 基础教程与实践</li>
-        <li>持续将研究想法转化为可落地实现</li>
+        <li>ML/DL Algorithm</li>
+        <li>Math Optimized Algorithm</li>
       </ul>
     </td>
   </tr>
 </table>
 
-## 代表项目
+## MyProjects
 
 <table>
   <tr>
@@ -86,7 +86,7 @@
     <td><a href="https://github.com/zimingttkx/AI-Practices">AI-Practices</a></td>
     <td>机器学习与深度学习教程</td>
     <td><a href="https://github.com/zimingttkx/WebServer">WebServer</a></td>
-    <td>Linux 网络编程练习项目</td>
+    <td>Linux 一个小的 Websocket 聊天服务器</td>
   </tr>
 </table>
 
