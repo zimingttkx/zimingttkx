@@ -29,9 +29,7 @@
       <strong>参与过的开源项目</strong>
       <ul>
         <li><a href="https://github.com/vllm-project/vllm">vllm</a>：参与过文档、测试与内容修复相关工作</li>
-        <li><a href="https://github.com/EJianZQ/IGoLibrary">IGoLibrary</a>：参与过 Mac 版本相关讨论</li>
-        <li><a href="https://github.com/moises-goncalves/NUFELibrary">NUFELibrary</a>：提交过改进建议</li>
-        <li>后续也会继续参与更多 AI / 工程方向的开源项目</li>
+        <li><a href="https://github.com/zimingttkx/future-agi">future-agi</a>：持续参与 LLM 评测、可观测性与 Agent 工作流相关开发</li>
       </ul>
 
       <strong>GitHub 数据</strong>
