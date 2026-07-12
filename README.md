@@ -10,6 +10,10 @@
 [![Public repos](https://img.shields.io/badge/Public%20Repos-8+-blue?style=flat-square)](https://github.com/zimingttkx?tab=repositories)
 [![个人资料](https://img.shields.io/badge/Profile-zimingttkx-181717?style=flat-square&logo=github)](https://github.com/zimingttkx)
 
+[![GitHub](https://img.shields.io/badge/GitHub-zimingttkx-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zimingttkx)
+[![LeetCode](https://img.shields.io/badge/LeetCode-zimingttkx-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.cn/u/zimingttkx)
+[![QQ Mail](https://img.shields.io/badge/QQ%20Mail-2147514473%40qq.com-12B7F5?style=flat-square&logo=qq&logoColor=white)](mailto:2147514473@qq.com)
+
 </div>
 
 ## 关于我
@@ -103,10 +107,3 @@
   <img src="https://img.shields.io/badge/Distributed%20Systems-1D4ED8?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20Source-111827?style=flat-square" />
 </p>
-
-## 联系我
-
-- GitHub: https://github.com/zimingttkx
-- 邮箱: 2147514473@qq.com
-- LeetCode: https://leetcode.cn/u/zimingttkx
-- 公司/机构: https://sxx.nufe.edu.cn/
