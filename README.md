@@ -14,34 +14,24 @@
 
 ## 一眼看我
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>我主要关注</strong>
-      <ul>
-        <li>数学、计算机科学、机器学习和深度学习</li>
-        <li>LLM 评测、可观测性与 Agent 工作流</li>
-        <li>分布式推理、调度与系统优化</li>
-        <li>网络安全、C++ 基础设施与服务器系统</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <strong>参与过的开源项目</strong>
-      <ul>
-        <li><a href="https://github.com/vllm-project/vllm">vllm</a>：参与过文档、测试与内容修复相关工作</li>
-        <li><a href="https://github.com/zimingttkx/future-agi">future-agi</a>：持续参与 LLM 评测、可观测性与 Agent 工作流相关开发</li>
-      </ul>
+**我主要关注**
+- 数学、计算机科学、机器学习和深度学习
+- LLM 评测、可观测性与 Agent 工作流
+- 分布式推理、调度与系统优化
+- 网络安全、C++ 基础设施与服务器系统
 
-      <strong>GitHub 数据</strong>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Public%20Repos-8-blue?style=flat-square" alt="Public repos" />
-        <img src="https://img.shields.io/badge/Followers-9-success?style=flat-square" alt="Followers" />
-        <img src="https://img.shields.io/badge/Following-1-lightgrey?style=flat-square" alt="Following" />
-        <img src="https://img.shields.io/badge/Total%20Stars-1066-blue?style=flat-square" alt="Total Stars" />
-      </p>
-    </td>
-  </tr>
-</table>
+**参与过的开源项目**
+- [vllm](https://github.com/vllm-project/vllm)：参与过文档、测试与内容修复相关工作
+- [future-agi](https://github.com/zimingttkx/future-agi)：持续参与 LLM 评测、可观测性与 Agent 工作流相关开发
+
+**GitHub 数据**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Public%20Repos-8-blue?style=flat-square" alt="Public repos" />
+  <img src="https://img.shields.io/badge/Followers-9-success?style=flat-square" alt="Followers" />
+  <img src="https://img.shields.io/badge/Following-1-lightgrey?style=flat-square" alt="Following" />
+  <img src="https://img.shields.io/badge/Total%20Stars-1066-blue?style=flat-square" alt="Total Stars" />
+</p>
 
 ## 我在做什么
 
