@@ -14,41 +14,83 @@
 
 ## 关于我
 
-**研究与方向**
-- 数学、计算机科学、机器学习和深度学习
-- LLM 评测、可观测性与 Agent 工作流
-- 分布式推理、调度与系统优化
-- 网络安全、C++ 基础设施与服务器系统
-
-**开源参与**
-- [vllm](https://github.com/vllm-project/vllm)：参与文档、测试与内容修复相关工作
-- [future-agi](https://github.com/zimingttkx/future-agi)：参与 LLM 评测、可观测性与 Agent 工作流相关开发
-
-**GitHub 数据概览**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Public%20Repos-8-blue?style=flat-square" alt="Public repos" />
-  <img src="https://img.shields.io/badge/Followers-9-success?style=flat-square" alt="Followers" />
-  <img src="https://img.shields.io/badge/Following-1-lightgrey?style=flat-square" alt="Following" />
-  <img src="https://img.shields.io/badge/Total%20Stars-1066-blue?style=flat-square" alt="Total Stars" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>研究与方向</strong>
+      <ul>
+        <li>数学、计算机科学、机器学习和深度学习</li>
+        <li>LLM 评测、可观测性与 Agent 工作流</li>
+        <li>分布式推理、调度与系统优化</li>
+        <li>网络安全、C++ 基础设施与服务器系统</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <strong>开源参与与联系</strong>
+      <ul>
+        <li><a href="https://github.com/vllm-project/vllm">vllm</a>：参与文档、测试与内容修复相关工作</li>
+        <li><a href="https://github.com/zimingttkx/future-agi">future-agi</a>：参与 LLM 评测、可观测性与 Agent 工作流相关开发</li>
+      </ul>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Public%20Repos-8-blue?style=flat-square" alt="Public repos" />
+        <img src="https://img.shields.io/badge/Followers-9-success?style=flat-square" alt="Followers" />
+        <img src="https://img.shields.io/badge/Following-1-lightgrey?style=flat-square" alt="Following" />
+        <img src="https://img.shields.io/badge/Total%20Stars-1066-blue?style=flat-square" alt="Total Stars" />
+      </p>
+      <p>
+        GitHub: <a href="https://github.com/zimingttkx">zimingttkx</a> ｜
+        邮箱: <a href="mailto:2147514473@qq.com">2147514473@qq.com</a> ｜
+        LeetCode: <a href="https://leetcode.cn/u/zimingttkx">zimingttkx</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 我在做什么
 
-- LLM 评测、可观测性与 Agent 工作流
-- 分布式推理与调度
-- 基于 ML/DL/RL 的网络安全系统
-- 高性能 C++ 基础设施与服务器系统
-- ML/DL 基础教程与实践
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>当前重点</strong>
+      <ul>
+        <li>LLM 评测、可观测性与 Agent 工作流</li>
+        <li>分布式推理与调度</li>
+        <li>基于 ML/DL/RL 的网络安全系统</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <strong>实践方向</strong>
+      <ul>
+        <li>高性能 C++ 基础设施与服务器系统</li>
+        <li>ML/DL 基础教程与实践</li>
+        <li>持续将研究想法转化为可落地实现</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 代表项目
 
-- [future-agi](https://github.com/zimingttkx/future-agi) - 面向 LLM 和 AI Agent 应用的评测、观测与优化平台。
-- [QuantumFlow](https://github.com/zimingttkx/QuantumFlow) - 支持多后端的分布式 LLM 推理调度框架。
-- [Network-Security-Based-On-ML](https://github.com/zimingttkx/Network-Security-Based-On-ML) - 基于机器学习的网络安全检测系统，强调落地部署。
-- [ConcurrentCache](https://github.com/zimingttkx/ConcurrentCache) - 基于 C++17 的高性能分布式内存对象缓存系统。
-- [AI-Practices](https://github.com/zimingttkx/AI-Practices) - 系统性的机器学习与深度学习教程仓库。
-- [WebServer](https://github.com/zimingttkx/WebServer) - 用于 Linux 网络编程练习的轻量级 C++ Web Server。
+<table>
+  <tr>
+    <td><a href="https://github.com/zimingttkx/future-agi">future-agi</a></td>
+    <td>LLM 评测、观测与优化平台</td>
+    <td><a href="https://github.com/zimingttkx/QuantumFlow">QuantumFlow</a></td>
+    <td>分布式 LLM 推理调度框架</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/zimingttkx/Network-Security-Based-On-ML">Network-Security-Based-On-ML</a></td>
+    <td>机器学习网络安全检测系统</td>
+    <td><a href="https://github.com/zimingttkx/ConcurrentCache">ConcurrentCache</a></td>
+    <td>C++17 高性能分布式缓存系统</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/zimingttkx/AI-Practices">AI-Practices</a></td>
+    <td>机器学习与深度学习教程</td>
+    <td><a href="https://github.com/zimingttkx/WebServer">WebServer</a></td>
+    <td>Linux 网络编程练习项目</td>
+  </tr>
+</table>
 
 ## 技能栈
 
