@@ -59,43 +59,55 @@ def draw_chart(rows: list):
     import matplotlib.dates as mdates
     from datetime import datetime
 
+    # Nature/Science journal style
+    plt.rcParams.update({
+        "font.family": "serif",
+        "font.serif": ["Times New Roman", "DejaVu Serif"],
+        "mathtext.fontset": "stix",
+        "axes.unicode_minus": False,
+    })
+
     dates = [datetime.strptime(r[0], "%Y-%m-%d") for r in rows]
     stars = [r[1] for r in rows]
 
-    fig, ax = plt.subplots(figsize=(8, 3))
+    fig, ax = plt.subplots(figsize=(7, 2.6))
 
-    # Dark background to blend well on GitHub dark mode
-    fig.patch.set_facecolor("#0D1117")
-    ax.set_facecolor("#0D1117")
+    # Clean white background
+    fig.patch.set_facecolor("white")
+    ax.set_facecolor("white")
 
-    color = "#3B82F6"
-    ax.fill_between(dates, stars, alpha=0.15, color=color)
-    ax.plot(dates, stars, color=color, linewidth=2, marker="o", markersize=4,
-            markerfacecolor=color, markeredgewidth=0)
+    color = "#2166AC"
+    ax.fill_between(dates, stars, alpha=0.08, color=color)
+    ax.plot(dates, stars, color=color, linewidth=1.2, solid_capstyle="round")
 
-    # Formatting
-    ax.xaxis.set_major_formatter(mdates.DateFormatter("%b %Y"))
-    ax.tick_params(colors="#8B949E", labelsize=9)
+    # Thin spines — bottom & left only, journal convention
     for spine in ax.spines.values():
         spine.set_visible(False)
+    ax.spines["bottom"].set_visible(True)
+    ax.spines["bottom"].set_color("#999999")
+    ax.spines["bottom"].set_linewidth(0.5)
+    ax.spines["left"].set_visible(True)
+    ax.spines["left"].set_color("#999999")
+    ax.spines["left"].set_linewidth(0.5)
 
-    ax.set_ylabel("Total Stars", color="#C9D1D9", fontsize=10)
+    # Ticks
+    ax.xaxis.set_major_formatter(mdates.DateFormatter("%b\n%Y"))
+    ax.tick_params(axis="x", colors="#666666", labelsize=8, length=0, pad=4)
+    ax.tick_params(axis="y", colors="#666666", labelsize=8, length=0, pad=4)
+
+    # Subtle horizontal gridlines
+    ax.yaxis.set_major_locator(plt.MaxNLocator(5))
+    ax.grid(axis="y", color="#E0E0E0", linewidth=0.4, linestyle="-")
+
+    ax.set_ylabel("Stars", color="#444444", fontsize=9, labelpad=6)
     ax.set_xlabel("")
-    ax.grid(axis="y", color="#21262D", linewidth=0.5)
-    ax.tick_params(axis="x", colors="#8B949E")
 
-    # Annotate last value
-    if len(stars) >= 1:
-        ax.annotate(
-            str(stars[-1]),
-            (dates[-1], stars[-1]),
-            textcoords="offset points", xytext=(8, -6),
-            color=color, fontsize=12, fontweight="bold",
-        )
+    # Tight science-style margins
+    ax.margins(x=0.01, y=0.08)
 
-    plt.tight_layout(pad=0.5)
+    plt.tight_layout(pad=0.3)
     ASSETS.mkdir(exist_ok=True)
-    fig.savefig(str(CHART_PATH), dpi=150, facecolor=fig.get_facecolor(), edgecolor="none")
+    fig.savefig(str(CHART_PATH), dpi=200, facecolor="white", edgecolor="none", bbox_inches="tight")
     plt.close(fig)
     print(f"Chart saved to {CHART_PATH}")
 
