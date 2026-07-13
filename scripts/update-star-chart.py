@@ -1,13 +1,9 @@
 #!/usr/bin/env python3
 """Generate a star history chart for zimingttkx's public repos."""
-import json, os, csv, subprocess, sys
+import csv, subprocess, sys
 from datetime import date
 from pathlib import Path
 
-REPOS = [
-    "AI-Practices", "ConcurrentCache", "Network-Security-Based-On-ML",
-    "PaperWritingSkills", "QuantumFlow", "WebServer", "zimingttkx"
-]
 OWNER = "zimingttkx"
 SCRIPT_DIR = Path(__file__).resolve().parent
 REPO_DIR = SCRIPT_DIR.parent
@@ -17,18 +13,17 @@ CHART_PATH = ASSETS / "star-history.png"
 
 
 def fetch_stars() -> int:
-    """Fetch total stars across all non-fork repos using gh CLI."""
-    total = 0
-    for repo in REPOS:
-        result = subprocess.run(
-            ["gh", "api", f"repos/{OWNER}/{repo}", "--jq", ".stargazers_count"],
-            capture_output=True, text=True,
-        )
-        if result.returncode == 0:
-            total += int(result.stdout.strip())
-        else:
-            print(f"Warning: failed to fetch {repo}: {result.stderr}", file=sys.stderr)
-    return total
+    """Fetch total stars across all non-fork repos (single API call)."""
+    result = subprocess.run(
+        ["gh", "api", f"users/{OWNER}/repos",
+         "--jq", "[.[] | select(.fork == false) | .stargazers_count] | add // 0",
+         "--paginate"],
+        capture_output=True, text=True,
+    )
+    if result.returncode != 0:
+        print(f"Warning: failed to fetch stars: {result.stderr}", file=sys.stderr)
+        return 0
+    return int(result.stdout.strip())
 
 
 def read_history() -> list[tuple[str, int]]:
