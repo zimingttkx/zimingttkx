@@ -26,16 +26,16 @@ jobs:
         run: |
           python3 - <<'PY'
           from pathlib import Path
-          import os
+          import os, re
 
           readme = Path('README.md')
           total_stars = os.environ['TOTAL_STARS']
           text = readme.read_text(encoding='utf-8')
-          old = 'https://img.shields.io/badge/Total%20Stars-1066-blue?style=flat-square'
+          pattern = r'https://img\.shields\.io/badge/Total%20Stars-\d+-blue\?style=flat-square'
           new = f'https://img.shields.io/badge/Total%20Stars-{total_stars}-blue?style=flat-square'
-          if old not in text:
+          if not re.search(pattern, text):
               raise SystemExit('Could not find total stars badge in README.md')
-          readme.write_text(text.replace(old, new), encoding='utf-8')
+          readme.write_text(re.sub(pattern, new, text), encoding='utf-8')
           PY
         env:
           TOTAL_STARS: ${{ steps.stars.outputs.total_stars }}
