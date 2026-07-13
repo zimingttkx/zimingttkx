@@ -16,6 +16,8 @@ jobs:
 
       - name: Compute total stars
         id: stars
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           total_stars=$(gh api users/zimingttkx/repos --paginate --jq '[.[] | .stargazers_count] | add // 0')
           echo "total_stars=$total_stars" >> "$GITHUB_OUTPUT"
