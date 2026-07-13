@@ -1,9 +1,9 @@
-name: Update total stars
+name: Update profile
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 2 * * 1"
+    - cron: "17 2 * * *"
 
 jobs:
   update-readme:
@@ -13,6 +13,14 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install matplotlib
 
       - name: Compute total stars
         id: stars
@@ -40,6 +48,11 @@ jobs:
         env:
           TOTAL_STARS: ${{ steps.stars.outputs.total_stars }}
 
+      - name: Update star history chart
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/update-star-chart.py
+
       - name: Commit changes
         run: |
           if git diff --quiet; then
@@ -48,6 +61,6 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "chore: update total stars badge"
+          git add README.md star-history.csv assets/star-history.png
+          git commit -m "chore: update stars badge and chart"
           git push
