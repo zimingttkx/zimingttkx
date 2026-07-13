@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/zimingttkx"><img src="https://img.shields.io/badge/GitHub-zimingttkx-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/zimingttkx?tab=repositories"><img src="https://img.shields.io/badge/Total%20Stars-1066-blue?style=flat-square" alt="Total Stars" /></a>
+  <a href="https://github.com/zimingttkx?tab=repositories"><img src="https://img.shields.io/badge/Total%20Stars-1072-blue?style=flat-square" alt="Total Stars" /></a>
   <a href="https://leetcode.cn/u/zimingttkx"><img src="https://img.shields.io/badge/LeetCode-zimingttkx-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="mailto:2147514473@qq.com"><img src="https://img.shields.io/badge/QQ%20Mail-2147514473%40qq.com-12B7F5?style=flat-square&logo=qq&logoColor=white" alt="QQ Mail" /></a>
 </p>
