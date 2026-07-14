@@ -3,7 +3,7 @@
 ### Mathematics · Computer Science · ML/DL · Open Source
 
 <p>
-  关注数学、计算机科学与机器学习相关研究，热爱开源社区。
+  关注应用数学 计算机科学与机器学习相关研究 CryptoTrading业余爱好者 热爱开源社区。
 </p>
 
 <p align="center">
