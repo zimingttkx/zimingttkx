@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/zimingttkx"><img src="https://img.shields.io/github/followers/zimingttkx?label=Follow&style=flat-square&logo=github" /></a>
-  <a href="https://github.com/zimingttkx?tab=repositories"><img src="https://img.shields.io/badge/Total%20Stars-1077-blue?style=flat-square" /></a>
+  <a href="https://github.com/zimingttkx?tab=repositories"><img src="https://img.shields.io/badge/Total%20Stars-1089-blue?style=flat-square" /></a>
   <a href="https://leetcode.cn/u/zimingttkx"><img src="https://img.shields.io/badge/LeetCode-zimingttkx-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
   <a href="mailto:2147514473@qq.com"><img src="https://img.shields.io/badge/Email-2147514473%40qq.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
