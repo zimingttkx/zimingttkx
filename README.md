@@ -24,7 +24,7 @@
     <td valign="top" width="50%">
       <strong>Research & Engineering</strong>
       <ul>
-        <li>LLM 评测、可观测性与 Agent 工作流</li>
+        <li>LLM 推理、可观测性与 Agent workflow</li>
         <li>分布式推理、调度与系统优化</li>
         <li>ML/DL/RL 驱动的网络安全</li>
         <li>高性能 C++ 基础设施与服务器系统</li>
@@ -74,10 +74,4 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Distributed%20Systems-1D4ED8?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20Source-111827?style=flat-square" />
-</p>
-
-### 📈 Star History
-
-<p align="center">
-  <img src="assets/star-history.png" alt="Star History Chart" width="600" />
 </p>
